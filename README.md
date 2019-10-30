@@ -3,7 +3,7 @@ A [Visual Studio 2019 extension](https://marketplace.visualstudio.com/items?item
 It connects to the Azure Project and allows a user within Visual Studio to update Assignee, State, View/Add Comments and View the Description.
 
 ## Why Use it?
-True Agile working requires great collaborative tools, and up to date communication. Having the ability to update a Work Item within Visual Studio means the whole team knows as soon as possible when a task is complete, blocked or ready for test, meaning time savings for all members of the project.
+True Agile working requires great collaborative tools and up to date communication. Having the ability to update a Work Item within Visual Studio means the whole team knows as soon as possible when a task is complete, blocked or ready for test, meaning time savings for all members of the project.
 
 ## How to use it
  1. First install the extension from the Visual Studio market place.
