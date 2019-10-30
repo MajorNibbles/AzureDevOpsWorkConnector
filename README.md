@@ -1,7 +1,7 @@
 # Azure DevOps Work Connector
 A [Visual Studio 2019 extension](https://marketplace.visualstudio.com/items?itemName=MadeUpExtensions.AzureDevopsWorkConnector)  allowing users to manage any Azure DevOps Work Items (Backlog Items, Bugs, Features etc.) from within Visual Studio.
 
-It connects to the Azure Project and allows a user within Visual Studio to Update Assignee, Update State, View/Add Comments and View the Description.
+It connects to an Azure Project and allows a user within Visual Studio to Update Assignee, Update State, View/Add Comments and View the Description.
 
 ## Why Use it?
 True Agile working requires great collaborative tools and up-to-date communication. Having the ability to update a Work Item from within Visual Studio means the whole team knows as soon as possible when a task is complete, blocked or ready for test, meaning time is saved regularly across all members of a project.
