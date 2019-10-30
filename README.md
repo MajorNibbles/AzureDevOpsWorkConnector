@@ -1,9 +1,10 @@
 # Azure DevOps Work Connector
-A [Visual Studio 2019 extension](https://marketplace.visualstudio.com/items?itemName=MadeUpExtensions.AzureDevopsWorkConnector)  allowing users to manage any Azure DevOps work items (Backlog Items, Bugs, Features etc.) from within Visual Studio.
-It connects to the Azure Project and allows a user within Visual Studio to update Assignee, State, View/Add Comments and View the Description.
+A [Visual Studio 2019 extension](https://marketplace.visualstudio.com/items?itemName=MadeUpExtensions.AzureDevopsWorkConnector)  allowing users to manage any Azure DevOps Work Items (Backlog Items, Bugs, Features etc.) from within Visual Studio.
+
+It connects to the Azure Project and allows a user within Visual Studio to Update Assignee, Update State, View/Add Comments and View the Description.
 
 ## Why Use it?
-True Agile working requires great collaborative tools and up to date communication. Having the ability to update a Work Item within Visual Studio means the whole team knows as soon as possible when a task is complete, blocked or ready for test, meaning time savings for all members of the project.
+True Agile working requires great collaborative tools and up-to-date communication. Having the ability to update a Work Item from within Visual Studio means the whole team knows as soon as possible when a task is complete, blocked or ready for test, meaning time is saved regularly across all members of a project.
 
 ## How to use it
  1. First install the extension from the Visual Studio market place.
@@ -20,10 +21,10 @@ True Agile working requires great collaborative tools and up to date communicati
  4. If steps 2.i and 2.ii have been completed correctly you will have a list of Projects available to select from the dropdown box. Select one
  5. Now you can either select a WorkItem, or filter your WorkItems further through either the Team dropdown list, WorkItem Type filters or WorkItem Statuses filters. These will both be set by default to any items you entered in part 2.iv and 2.v
  6. Once you have selected a Work Item all information and comments will be pulled down. You can now perform the following actions
-  1. **Assign yourself to the Work Item** click the "Assign Myself" button.
-  2. **Assign someone to the Work Item** click the "Assign To..." button and enter the assignee name as they appear in ADO.
-  3. **Select and Update a new State** Use the State dropdown box to select the require state, and then click "Update State".
-  4. **Page through Comments** Three comments are displayed at any one time, if more comments are available pagination options will appear below them, simply click "Previous" or "Next" to scroll through the comments.
-  5. **Add a new Comment** To add a new comment first fill out the comments box, then click "Add Comment". The new comment will be displayed in the Comments section.
+	 1. **Assign yourself to the Work Item**: click the "Assign Myself" button.
+	 2. **Assign someone to the Work Item**: click the "Assign To..." button and enter the assignee name as they appear in ADO.
+	 3. **Select and Update a new State**: Use the State dropdown box to select the require state, and then click "Update State".
+	 4. **Page through Comments**: Three comments are displayed at any one time, if more comments are available pagination options will appear below them, simply click "Previous" or "Next" to scroll through the comments.
+	 5. **Add a new Comment**: To add a new comment first fill out the comments box, then click "Add Comment". The new comment will be displayed in the Comments section.
   
   If you have any questions or suggestions please post them in the Q&A section.
