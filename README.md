@@ -7,7 +7,7 @@ By connecting to an Azure DevOps Project this extension allows a user within Vis
 True Agile working requires great collaborative tools and up-to-date communication. Having the ability to update a Work Item from within Visual Studio means the whole team knows as soon as possible when a task is complete, blocked or ready for test, meaning time is saved regularly across all members of a project.
 
 ## How to use it
- 1. First install the extension from the Visual Studio market place.
+ 1. First [install the extension](https://marketplace.visualstudio.com/items?itemName=MadeUpExtensions.AzureDevopsWorkConnector) from the Visual Studio market place.
  2. Once installed go to Tools > Options > Azure DevOps Work Connector
     and fill out the following settings:
     
