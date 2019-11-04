@@ -8,7 +8,7 @@ True Agile working requires great collaborative tools and up-to-date communicati
 
 ## How to use it
  1. First install the extension from the Visual Studio market place.
- 2. Once installed go to Options > Tools > Azure DevOps Work Connector
+ 2. Once installed go to Tools > Options > Azure DevOps Work Connector
     and fill out the following settings:
     
 	 1. **Azure DevOps instance URL**: The base URL of the Azure DevOps instance you want to connect to, this can be both the legacy and new URL structure.
@@ -16,6 +16,7 @@ True Agile working requires great collaborative tools and up-to-date communicati
 	 3. **Azure DevOps Assignee Name**: Your name as it appears in Azure DevOps, meaning that Work Items can be assigned to yourself in one click, and new comments appear under your name.
 	 4. **Default Selected Work Item Types**: This is a comma seperated list of the Work Items Types that you want by default to be included in your WorkItem select list. This is defaulted to the following: 'Product Backlog Item,Bug'.
 	 5. **Default Statuses Filter**: This is a comma seperated list of the Work Items Statuses that you want to IGNORE from your WorkItem select list. This is defaulted to the following: 'Done,Completed,Removed,Closed'.
+	 6. **Default Selected WorkItem-Child Types Filter**: This is a comma seperated list of the WorkItems Child Types that you want to INCLUDE. This is defaulted to the following: 'Task,Bug'.
    
  3. To load the ADO Work Connector, in the toolbar, click View > Other Windows > Azure DevOps Work Connector, the connector will appear and can be docked in any pane, I recommend using it in a portrait pane.
  4. If steps 2.i and 2.ii have been completed correctly you will have a list of Projects available to select from the dropdown box. Select one
@@ -27,4 +28,8 @@ True Agile working requires great collaborative tools and up-to-date communicati
 	 4. **Page through Comments**: Three comments are displayed at any one time, if more comments are available pagination options will appear below them, simply click "Previous" or "Next" to scroll through the comments.
 	 5. **Add a new Comment**: To add a new comment first fill out the comments box, then click "Add Comment". The new comment will be displayed in the Comments section.
   
-  If you have any questions or suggestions please post them in the Q&A section.
+If you have any questions or suggestions please post them in the Q&A section.
+
+**Coming Soon:**
+1. Adding a sub Workitem
+2. Add a WorkItem
